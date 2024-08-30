@@ -251,7 +251,7 @@ function PrivateVoting() {
           <div className="text-lg">Code Snippets:</div>
           <br></br>
           <div className="text-sm">
-            User vote count and choice are stored on-chain in an encryted
+            User vote count and choice are stored on-chain in an encrypted
             manner.
           </div>
           <img src={"/CodePrivateVoting1.svg"} alt="CodePrivateVoting1" />
